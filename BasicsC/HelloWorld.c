@@ -1,6 +1,6 @@
 /*
 Programmer: Vedika Kajla
-Programm: Introduction to C
+Programm: Introduction to C and git
 */
 
 #include <stdio.h>
