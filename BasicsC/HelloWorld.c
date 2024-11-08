@@ -5,7 +5,7 @@ Programm: Introduction to C and git
 
 #include <stdio.h>
 int f(int x) {
-    return x*x + 2;
+    return x*x - 2;
 }
 int y;
 float o;
