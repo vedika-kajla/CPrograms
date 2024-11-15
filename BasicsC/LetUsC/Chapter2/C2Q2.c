@@ -12,7 +12,7 @@ int main(){
     printf("Enter the fifth digit of the five digit number\n");
     scanf("%d", &e);
      
-     rev_number9 = e*10000+d*1000+c*100+b*10+a;
+     rev_number = e*10000+d*1000+c*100+b*10+a;
      number = a*10000+b*1000+c*100+d*10+e;
 
      printf("The reverse of the number %d is %d", number, rev_number);
